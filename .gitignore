@@ -1,0 +1,46 @@
+# Build directories
+Builds/
+build/
+cmake-build-*/
+
+# IDE files
+*.xcodeproj/
+*.xcworkspace/
+.vs/
+*.vcxproj*
+*.sln
+
+# Compiled binaries
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+*.vst
+*.vst3
+*.component
+*.app
+
+# JUCE specific
+JuceLibraryCode/AppConfig.h
+JuceLibraryCode/JucePluginDefines.h
+
+# macOS
+.DS_Store
+*.dSYM/
+
+# Windows
+Thumbs.db
+*.user
+
+# Linux
+*.swp
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
