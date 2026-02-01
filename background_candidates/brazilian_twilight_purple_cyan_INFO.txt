@@ -1,0 +1,35 @@
+Background Image Information
+============================
+
+Filename: brazilian_twilight_purple_cyan.jpg
+
+Source: Unsplash (https://unsplash.com)
+Image URL: https://images.unsplash.com/photo-1475274047050-1d0c0975c63e
+Photographer: Search "twilight purple sky" on Unsplash for attribution
+
+License: Unsplash License
+- Free for commercial and non-commercial use
+- No attribution required (but appreciated)
+- Cannot be sold without modification
+- Full license: https://unsplash.com/license
+
+Why it matches the Dynoverb plugin color scheme:
+-----------------------------------------------
+The Dynoverb plugin uses a blue-purple color scheme with cyan accents for freeze:
+- Primary accent: Blue-purple (#6b8cff)
+- Secondary: Purple (#9b6bff)
+- Freeze color: Cyan (#00d4ff)
+- LED: Blue-ish (#6b8cff)
+- Background: Dark (#1a1a1a)
+
+This twilight sky image features:
+- Purple and blue gradients that match the reverb plugin's ethereal aesthetic
+- Cyan hints in the lighter portions that align with the freeze function color
+- Atmospheric quality that evokes the reverb's spacious sound character
+- Brazilian evening sky aesthetic (tropical twilight ambiance)
+
+Recommended usage:
+- Apply with low opacity (10-15%) as a subtle background texture
+- The gradient naturally flows from darker bottom to lighter top
+- Complements the decay visualizer and reverb tail graphics
+- Enhances the "infinite reverb" / freeze feature aesthetic
